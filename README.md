@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BoBuRKhaN7475
-- 👀 I’m interested in Swift
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Swift SwiftUI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Telegram: Developer_B
